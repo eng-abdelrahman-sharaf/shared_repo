@@ -1,0 +1,66 @@
+n = 1000000
+input generated
+algorithm 1
+967321
+Elapsed time: 2.758 seconds
+algorithm 2
+967321
+Elapsed time: 2.165 seconds
+algorithm 3
+967321
+Elapsed time: 2.188 seconds
+n = 2000000
+input generated
+algorithm 1
+1967256
+Elapsed time: 5.67 seconds
+algorithm 2
+1967256
+Elapsed time: 4.614 seconds
+algorithm 3
+1967256
+Elapsed time: 5.023 seconds
+n = 3000000
+input generated
+algorithm 1
+2967247
+Elapsed time: 8.859 seconds
+algorithm 2
+2967247
+Elapsed time: 7.404 seconds
+algorithm 3
+2967247
+Elapsed time: 8.571 seconds
+n = 4000000
+input generated
+algorithm 1
+3967346
+Elapsed time: 12.286 seconds
+algorithm 2
+3967346
+Elapsed time: 10.016 seconds
+algorithm 3
+3967346
+Elapsed time: 12.148 seconds
+n = 5000000
+input generated
+algorithm 1
+4967311
+Elapsed time: 15.656 seconds
+algorithm 2
+4967311
+Elapsed time: 12.093 seconds
+algorithm 3
+4967311
+Elapsed time: 15.041 seconds
+n = 10000000
+input generated
+algorithm 1
+9967270
+Elapsed time: 31.653 seconds
+algorithm 2
+9967270
+Elapsed time: 24.523 seconds
+algorithm 3
+9967270
+Elapsed time: 32.547 seconds
